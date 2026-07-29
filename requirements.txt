@@ -1,0 +1,6 @@
+# Python Libraries
+ultralytics
+opencv-python
+flask
+numpy
+pyserial
